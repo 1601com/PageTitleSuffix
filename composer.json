@@ -1,5 +1,5 @@
 {
-  "name": "agentur1601com/PageTitleSuffix",
+  "name": "agentur1601com/page-title-suffix",
   "description": "Page option: disable root title suffix and use only the page title",
   "type":"contao-module",
   "license":"LGPL-3.0+",
