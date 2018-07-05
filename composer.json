@@ -1,6 +1,6 @@
 {
   "name": "agentur1601com/PageTitleSuffix",
-  "description": "Disable root title suffix and use only the page title",
+  "description": "Page option: disable root title suffix and use only the page title",
   "type":"contao-module",
   "license":"LGPL-3.0+",
   "authors": [
@@ -16,7 +16,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.*-dev"
+      "dev-master": "1.0.0"
     },
     "contao-manager-plugin": "agentur1601com\\PageTitleSuffix\\ContaoManager\\Plugin"
   },
